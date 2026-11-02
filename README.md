@@ -24,3 +24,10 @@ Repository for the paper Multi-state Models For Modeling Disease Histories Based
 
 
 
+
+## License
+
+The code in this repository is released under the MIT license (see `LICENSE`).
+One exception: `rpexp_msm()` in `code/simulations/helpers_sim.r` is a copy of
+`rpexp()` from the [msm](https://cran.r-project.org/package=msm) package and
+stays under GPL (>= 2).
